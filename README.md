@@ -43,4 +43,4 @@ Password: admin
 
 ## Important
 
-No backed has been used (Neither Node.js or Typscript) for this task as it wasn't required for the task given. React.js was sufficient to complete the above task. 
+No back-end has been used (Neither Node.js or Typscript) for this task as it wasn't required for the task given. React.js was sufficient to complete the above task. 
