@@ -3,10 +3,16 @@
 ## Getting Started
 
 - Clone the repository into your local folder.
-- Makee sure you have the latest NPM version installed.
+- Make sure you have the latest NPM version installed.
 - Once the repository is cloned, access the folder via terminal or VS code terminal and change directory to the cloned folder.
 - Type the command `npm i` to install all the packages
 - Once installed, run the app by typing the command `npm start`. Open [http://localhost:3000](http://localhost:3000) to view it on your browser.
+
+## Requirements
+
+- Latest version of `node`
+- Latest vesion of `npm`
+- Any browser which supports javascript (Google Chrome, Safari, Edge, Brave etc...)
 
 ## Folder Structure
 
