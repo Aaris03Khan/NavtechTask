@@ -40,3 +40,7 @@ Password: admin
 ![image](https://user-images.githubusercontent.com/52927953/182760755-9bc72fb9-d333-44c5-adb5-9af17be2c199.png)
 ![image](https://user-images.githubusercontent.com/52927953/182760792-b355b6bf-6d90-45f1-8cc1-858a0b3da5c7.png)
 ![image](https://user-images.githubusercontent.com/52927953/182760851-7eec271f-3f76-4200-9e0b-7a94579f1647.png)
+
+## Important
+
+No backed has been used (Neither Node.js or Typscript) for this task as it wasn't required for the task given. React.js was sufficient to complete the above task. 
