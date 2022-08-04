@@ -4,9 +4,9 @@
 
 - Clone the repository into your local folder.
 - Makee sure you have the latest NPM version installed.
-- Once the repo is cloned, access the folder via terminal or VS code terminal and change directory to the cloned folder.
-- type the command `npm i` to install all the packages
-- once installed, run the app by typing the command `npm start`. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Once the repository is cloned, access the folder via terminal or VS code terminal and change directory to the cloned folder.
+- Type the command `npm i` to install all the packages
+- Once installed, run the app by typing the command `npm start`. Open [http://localhost:3000](http://localhost:3000) to view it on your browser.
 
 ## Folder Structure
 
@@ -26,3 +26,11 @@ Password: admin
 - react-bootstrap
 - react-dom
 - react-router-dom
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/52927953/182760553-08cb7238-0c44-4c74-ae05-a825f2931bde.png)
+![image](https://user-images.githubusercontent.com/52927953/182760605-606b5722-7e74-47af-aa1e-a9862ea884e6.png)
+![image](https://user-images.githubusercontent.com/52927953/182760755-9bc72fb9-d333-44c5-adb5-9af17be2c199.png)
+![image](https://user-images.githubusercontent.com/52927953/182760792-b355b6bf-6d90-45f1-8cc1-858a0b3da5c7.png)
+![image](https://user-images.githubusercontent.com/52927953/182760851-7eec271f-3f76-4200-9e0b-7a94579f1647.png)
