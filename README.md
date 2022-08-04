@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Navtech Task - done by Aaris Khan
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started
+
+- Clone the repository into your local folder.
+- Makee sure you have the latest NPM version installed.
+- Once the repo is cloned, access the folder via terminal or VS code terminal and change directory to the cloned folder.
+- type the command `npm i` to install all the packages
+- once installed, run the app by typing the command `npm start`
 
 ## Available Scripts
 

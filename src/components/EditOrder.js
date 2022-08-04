@@ -39,7 +39,7 @@ export default function EditOrder({data, setData, dataItem}) {
 
       <Modal show={show} onHide={handleClose} size="lg" aria-labelledby="contained-modal-title-vcenter" centered>
         <Modal.Header closeButton>
-          <Modal.Title id="contained-modal-title-vcenter">New Order</Modal.Title>
+          <Modal.Title id="contained-modal-title-vcenter">Edit Order</Modal.Title>
         </Modal.Header>
         <Modal.Body>
           <Form>
